@@ -49,6 +49,11 @@ python chatbot.py
 - Local: http://localhost:7860
 - Public sharing link will be displayed in terminal
 
+
+<img width="883" height="860" alt="image" src="https://github.com/user-attachments/assets/3bfe6e91-127a-4d24-809e-d357f3301989" />
+
+  
+
 ## 🎯 Use Cases
 
 Perfect for:
