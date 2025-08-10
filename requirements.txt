@@ -1,0 +1,6 @@
+gradio==4.44.0
+google-generativeai==0.3.2
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+pandas==2.1.4
+numpy==1.24.3
